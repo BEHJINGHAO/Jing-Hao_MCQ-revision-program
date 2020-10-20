@@ -50,7 +50,7 @@ tracker = 0
 
 while tracker !=1:
   
-  print("Q"+str(counter)+") "+ "What does the heart pump to the rest of the body")
+  print("Q"+str(counter)+") "+ "What does the heart pump to the rest of the body?")
   print("   a) Oxygen")
   print("   b) Nitrogen")
   print("   c) Carbon monoxide")
@@ -88,7 +88,7 @@ tracker = 0
 
 while tracker !=1:
   
-  print("Q"+str(counter)+") "+ "Which has the strongest muscle")
+  print("Q"+str(counter)+") "+ "Which has the strongest muscle?")
   print("   a) Right ventricle")
   print("   b) Right atrium")
   print("   c) Left atrium")
